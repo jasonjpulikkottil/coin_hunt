@@ -1,0 +1,26 @@
+
+bomb.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bomb
+  rotate: false
+  xy: 1, 1
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 1
+bomb
+  rotate: false
+  xy: 83, 1
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 2
+bomb
+  rotate: false
+  xy: 165, 1
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: 3

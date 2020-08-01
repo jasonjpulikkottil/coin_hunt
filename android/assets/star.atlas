@@ -1,0 +1,47 @@
+star.png
+size: 98, 216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+star
+  rotate: false
+  xy: 1, 1
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: 1
+star
+  rotate: false
+  xy: 1, 73
+  size: 61, 70
+  orig: 61, 70
+  offset: 0, 0
+  index: 2
+star
+  rotate: false
+  xy: 64, 73
+  size: 33, 70
+  orig: 33, 70
+  offset: 0, 0
+  index: 3
+star
+  rotate: false
+  xy: 73, 1
+  size: 11, 70
+  orig: 11, 70
+  offset: 0, 0
+  index: 4
+star
+  rotate: false
+  xy: 64, 145
+  size: 33, 70
+  orig: 33, 70
+  offset: 0, 0
+  index: 5
+star
+  rotate: false
+  xy: 1, 145
+  size: 61, 70
+  orig: 61, 70
+  offset: 0, 0
+  index: 6
