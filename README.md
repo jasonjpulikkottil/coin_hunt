@@ -6,4 +6,4 @@
 [Download APK](https://github.com/jasonjpulikkottil/coin_hunt/raw/master/android/release/android-release.apk)
 </br>
 - A simple coin collecting android game made using libGDX game framework.
-- Developed by Jason J Pulikkottil.
+- <b> Developed by Jason J Pulikkottil.</b>
